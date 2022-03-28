@@ -24,7 +24,7 @@ function MyApp({ Component, pageProps }) {
           </Link>
           <Link href='/creator-dashboard'>
             <a className='mr-6 text-pink-500'>
-              Creator dashboard
+              Creator Dashboard
             </a>
           </Link>
         </div>
